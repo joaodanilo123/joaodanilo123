@@ -1,5 +1,3 @@
-## "Nossa nação será o próximo e último grande império, e nosso povo mestiço se erguerá como um símbolo da união entre os povos do mundo." BRASIL 🇧🇷️
-
 - 👋 Hi, I’m João
 - 👀 I’m interested in Web and Mobile Develoment, Games and Linux 
 - 🌱 I’m currently learning Next JS and Spring 
