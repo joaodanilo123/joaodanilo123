@@ -5,6 +5,8 @@
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-danilo-zucolotto-diedrich-4241871a4/
 - Ig: https://www.instagram.com/__jao_danilo/
 
+![](https://komarev.com/ghpvc/?username=joaodanilo123)
+
 <!---
 joaodanilo123/joaodanilo123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
