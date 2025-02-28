@@ -1,6 +1,5 @@
 - 👋 Hi, I’m João
-- 👀 I’m interested in Web and Mobile Develoment, Games and Linux 
-- 🌱 I’m currently learning Next JS and Spring 
+- 👀 I’m interested in Web and Mobile Develoment, Games and Linux  
 - 💞️ I’m looking to collaborate on anything, just send a Hello and let's build something
 - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-danilo-zucolotto-diedrich-4241871a4/
 - Ig: https://www.instagram.com/__jao_danilo/
